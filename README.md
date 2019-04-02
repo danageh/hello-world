@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi HUmans!
+
+Dana here, I live on a diet of cookies and coffee.
